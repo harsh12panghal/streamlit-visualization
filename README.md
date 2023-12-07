@@ -1,5 +1,5 @@
 # streamlit-visualization
-Here I tries to build interactive and data-driven web apps in Python using the Streamlit library.
+Here I try to build interactive and data-driven web apps in Python using the Streamlit library.
 
 
 ## Stock Price App 
