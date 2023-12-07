@@ -13,3 +13,11 @@ Here we web scraped a NBA information website to get the live time data of NBA t
 <img width="1470" alt="Screenshot 2023-12-06 at 11 34 12 PM" src="https://github.com/harsh12panghal/streamlit-visualization/assets/102521089/d4ee2e9c-faef-407d-afd7-5d450603eb1c">
 
 <img width="1470" alt="Screenshot 2023-12-06 at 11 34 22 PM" src="https://github.com/harsh12panghal/streamlit-visualization/assets/102521089/6d1871eb-8f6c-42c5-a1d2-131cdda26cb1">
+
+
+## Iris Flower Prediction 
+Integrated a simple Random Forest ML algo to classify the type of Iris flower based on the user input.
+
+<img width="1470" alt="Screenshot 2023-12-07 at 11 22 54 AM" src="https://github.com/harsh12panghal/streamlit-visualization/assets/102521089/e58fe51a-051b-417c-831a-400e1898b584">
+
+
