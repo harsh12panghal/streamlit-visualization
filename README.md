@@ -1,6 +1,8 @@
 # streamlit-visualization
 Here I try to build interactive and data-driven web apps in Python using the Streamlit library.
 
+
+
 ## WebSnap
 WebSnap is an innovative application designed to streamline image search and collection from the vast expanse of the internet.
 
